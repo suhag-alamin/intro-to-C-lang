@@ -1,6 +1,6 @@
 ```
 
-## My Introduction to C language.
+My Introduction to C language.
 
 
 ```
